@@ -24,8 +24,8 @@ This is my first project on the Frontend Mentor Challenge, and I hope I got it r
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://kizito-isifeh.github.io/Frontend-Mentor-QR-Component/)
+- Live Site URL: [Live site URL](https://kizito-isifeh.github.io/Frontend-Mentor-QR-Component/)
 
 
 ## My process
