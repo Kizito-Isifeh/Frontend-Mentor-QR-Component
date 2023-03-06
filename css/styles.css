@@ -3,7 +3,10 @@ body {
   background-color: hsl(212, 45%, 89%);
   font-family: 'Outfit', sans-serif;
   margin: auto;
-  padding: 200px;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  /*padding: 200px;*/
 }
 
 main {
@@ -17,10 +20,6 @@ main {
 }
 
 
-body {
-  width: 1440px;
-  background-color: hsl(212, 45%, 89%);
-}
 
 img {
   border-radius: 10px;
